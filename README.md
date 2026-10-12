@@ -21,14 +21,6 @@ Abre `index.html` con un navegador moderno. No requiere instalación, servidor, 
 ## Alcance del MVP
 HTML, CSS y JavaScript sin bibliotecas externas. Persistencia con LocalStorage. Es una demostración local: no hay autenticación, usuarios reales, notificaciones externas ni base de datos compartida. Los nombres representan perfiles del caso de estudio, no cuentas con permisos. No usar para información sensible. Borrar los datos del navegador elimina los registros; el CSV es una exportación para consulta y no se importa automáticamente. El indicador de primera atención mide un cambio de estado, no prueba que un técnico haya respondido fuera del sistema.
 
-## Publicar en GitHub Pages
-1. Sube `index.html`, `styles.css`, `app.js`, `README.md` y `PROPUESTA_DE_VALOR.md` a la raíz de tu repositorio público.
-2. En GitHub, abre Settings → Pages.
-3. En Build and deployment selecciona Deploy from a branch.
-4. Elige la rama donde subiste los archivos y la carpeta / (root). Guarda.
-5. Cuando GitHub termine el despliegue, abre la dirección que aparece en Pages.
-
-No necesita compilación ni claves. El repositorio y su publicación deben crearse desde tu cuenta; estos archivos no los publican automáticamente.
 
 ## Recorrido de demostración
 1. Carga los ejemplos y comprueba los cuatro indicadores.
