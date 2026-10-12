@@ -40,8 +40,3 @@ No necesita compilación ni claves. El repositorio y su publicación deben crear
 7. Recarga la página y comprueba la persistencia.
 8. Exporta el CSV y comprueba los registros.
 9. Consulta el documento `PROPUESTA_DE_VALOR.md` del repositorio para relacionar la demostración con el ensayo.
-
-## Entrega académica
-La aplicación complementa el ensayo; no reemplaza la investigación, citas APA, conclusiones y referencias requeridas. El documento de indicaciones solicita un repositorio público y un PDF con nombres, carnets y enlace. Esos datos deben completarlos los integrantes antes de entregar. El documento mezcla trabajo individual y grupal: confirmar con el docente la modalidad aplicable.
-
-Consulta `PROPUESTA_DE_VALOR.md` para la relación entre cliente, problema, solución y beneficio, así como el plan de validación. No se presentan datos ficticios como resultados reales.
